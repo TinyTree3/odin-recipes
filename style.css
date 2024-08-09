@@ -1,0 +1,38 @@
+.text {
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: aquamarine;
+    list-style-type: square;
+    font-size: 30px;
+
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#heading {
+    font-family: "Courier New", sans-serif;
+    font-size: 75px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    text-decoration: underline;
+    color: aquamarine
+}
+
+#credit {
+    text-align: center;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#main-text {
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
