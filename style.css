@@ -10,6 +10,7 @@
 body {
     background-color: black;
     color: white;
+    margin: 0 25%;
 }
 
 #heading {
@@ -35,4 +36,23 @@ h3 {
 
 #main-text {
     font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+    display: block;
+    margin: 30px auto;
+    background-color: aquamarine;
+    font-size: 30px;
+    padding: 20px 50px;
+    font-weight: 800;
+    border: 10px double black;
+}
+
+button a {
+    color: black;
+    text-decoration-style: dotted;
+}
+
+#credit a {
+    color: aquamarine;
 }
